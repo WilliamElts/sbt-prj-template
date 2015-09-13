@@ -16,7 +16,7 @@ $ ./install
 And then, create your project as you want
 
 ```sh
-$ scala-prj-generator your-project-name
+$ sbt-prj-generator your-project-name
 $ cd your-project-name
 $ sbt assembly
 ```
